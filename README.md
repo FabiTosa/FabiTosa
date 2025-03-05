@@ -1,4 +1,5 @@
  About Me:
+ 
 Ik ben een student die altijd bezig is met creatieve code en nieuwe projecten. Op zoek naar een stage waar ik kan leren, groeien en m’n skills kan laten zien.
 
 Ik bouw dingen, los problemen op en experimenteer met tech. Check m’n projecten en stuur me een als je samen iets wil maken!
