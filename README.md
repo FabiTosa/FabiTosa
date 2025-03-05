@@ -1,4 +1,4 @@
-# 💫 About Me:
+ About Me:
 Aan het studeren bij techniek college<br>Zoekend naar stage<br>Goed in designs maken
 
 
